@@ -31,7 +31,7 @@ A partir de los conjuntos de datos obtenidos de Enacom, llevar a cabo un proceso
 
 Aquí hallarás unos atajos para explorar los archivos almacenados en el repositorio.
 
-- **README.MD** [(link)]() → Archivo principal contiene información detallada sobre el proyecto.
+- **README.MD** [(link)](https://github.com/MayraSierraAT/PI_DA-Telecomunicaciones/blob/main/README.md) → Archivo principal contiene información detallada sobre el proyecto.
 - **Data** [(link)]() → Aquí se encuentran los conjuntos de datos empleados en el proyecto.
 - **Data Analytics** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/4f033f667b5fbe45ac6c439f7895f989e6cb8f03/Data%20analytics/ProyectoFinal_EDA.ipynb) → Información pertinente al trabajo realizado en el area de Data Analytics.
     - `EDA` [(Link)](https://github.com/Guido097/ML_FinalProject) → Se trata de un notebook de Python que contiene el código para llevar a cabo el análisis exploratorio de datos.
