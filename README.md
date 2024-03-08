@@ -19,13 +19,53 @@ A partir de los conjuntos de datos obtenidos de Enacom, llevar a cabo un proceso
 
 ## KPIs (Indicadores Calve de Desempeño)
 
-`KPI 1- Aumento de cobertura`
+`KPI Tasa de crecimiento Accesos por cada 100 hogares (KPI_1)`
 
-- Consiste en aumentar la accesibilidad al servicio de internet en un 2% para el próximo trimestre en grupos de 100 hogares por provincia. Esto implica que se busca que un 2% más de hogares tengan acceso a Internet en cada provincia en comparación con el trimestre actual. El objetivo es mejorar la cobertura y el acceso a Internet en diferentes regiones.
+> Este indicador mide el cambio porcentual en la cantidad de accesos a internet por cada 100 hogares en un período de tiempo determinado. La fórmula para calcularlo es: KPI_1 = ((Nuevo acceso - Acceso actual) / Acceso actual) * 100. Esencialmente, compara el número actual de accesos con el número anterior y calcula el cambio porcentual.
 
-`KPI 2 - Velocidad promedio de conexión a Internet` 
+`KPI Tasa de crecimiento Mbps (Media de bajada) (KPI_2)`
 
-- Se enfoca en la calidad de la conexión de Internet en cada provincia. Una velocidad promedio más alta indica una mejor experiencia de usuario. Si bien es importante aumentar el acceso, también es crucial garantizar que la calidad del servicio sea adecuada. Un aumento en la velocidad promedio de conexión significa que los usuarios experimentarán una conexión más rápida y confiable.
+> Este indicador evalúa el cambio porcentual en la velocidad media de descarga de internet en un período específico. La fórmula es: KPI_2 = ((Media nueva - Media actual) / Media actual) * 100. Calcula la diferencia entre la velocidad media actual y la velocidad media anterior, y luego lo divide por la velocidad media actual para obtener el cambio porcentual.
+
+`KPI Porcentaje de cobertura de acceso a internet por habitantes`
+
+> Este indicador muestra el porcentaje de la población que tiene acceso a internet en un área determinada, generalmente expresado como un porcentaje. La fórmula para calcularlo es: % Cobertura = (‘Total’ * 100) / ‘Población’. Simplemente multiplica la cantidad total de acceso a internet por 100 y luego divide el resultado por la población total para obtener el porcentaje de cobertura.
+
+## Conclusiones y Recomendaciones
+
+### Conclusiones
+
+1. El incremento constante en el número de accesos a internet por cada 100 hogares durante el periodo 2014-2022 refleja una creciente demanda de este servicio a nivel nacional.
+
+2. La tendencia al alza en la velocidad media de descarga sugiere mejoras en la infraestructura de internet y en los dispositivos de los usuarios, entre otros factores, durante el periodo analizado.
+
+3. Destaca un aumento significativo en la velocidad de internet entre 2021 y 2022, evidenciando un salto notable en la infraestructura o en las tecnologías empleadas.
+
+4. El cálculo promedio de la Tasa de crecimiento Accesos por cada 100 hogares (KPI_1) fue de 1.77%, mientras que para la Tasa de crecimiento Mbps (Media de bajada) (KPI_2) se registró un incremento promedio trimestral del 7.10% a nivel nacional.
+
+5. El constante aumento anual en el número de accesos indica un crecimiento sostenido, casi duplicándose en 8 años, lo que sugiere un mayor acceso a internet en los hogares, positivo para el desarrollo económico y social.
+
+6. La disminución en el uso de ‘Dial up’ se atribuye a su obsolescencia frente a tecnologías como la ‘Banda ancha fija’, que ofrecen mayores velocidades de conexión.
+
+7. El incremento en el uso de tecnologías de banda ancha fija como la fibra óptica y el cable modem refleja la preferencia de los usuarios por conexiones más rápidas y estables.
+
+8. A excepción del ADSL, todas las tecnologías de acceso a internet muestran un crecimiento constante a lo largo del periodo analizado.
+
+9. Comparado con otras tecnologías de banda ancha fija, como la fibra óptica y el cable modem, la velocidad de conexión del ADSL es considerablemente menor.
+
+10. La tendencia a la baja en el uso de ADSL está correlacionada con el declive en el uso de ‘Dial Up’, indicando una transición hacia tecnologías de conexión más modernas y eficientes.
+
+### Recomendaciones
+
+1. Dada la alta demanda y el crecimiento constante de los accesos a internet a nivel nacional, se sugiere invertir en infraestructura y tecnologías actualizadas. Este crecimiento potencialmente exponencial hace que la expansión tanto en cantidad de accesos como en velocidad de descarga sea crucial para el desarrollo económico y social del país. Se recomienda una visión estratégica enfocada en la expansión general y el aumento de velocidad a nivel nacional.
+
+2. La disminución en el uso de tecnologías obsoletas como el dial-up y el ADSL abre oportunidades para sustituirlas por tecnologías más avanzadas en las áreas donde aún se utilizan.
+
+3. Se aconseja la adquisición de equipos y servicios especializados en tecnología de fibra óptica, que muestra un crecimiento constante en la adopción por parte de los usuarios.
+
+4. Es recomendable mantener el impulso en la tecnología de cable módem, dado su carácter accesible, económico y fiable, lo que la convierte en la opción preferida para muchos usuarios de internet.
+
+5. Se requiere especial atención a las áreas rurales, que suelen estar desatendidas debido a los costos asociados con la construcción de infraestructura de red. Para abordar este desafío, se sugiere la implementación de planes de financiamiento y la exploración de tecnologías alternativas como internet satelital o servicios inalámbricos para garantizar un acceso equitativo y de alta velocidad en estas zonas.
 
 ## Documentación:
 
