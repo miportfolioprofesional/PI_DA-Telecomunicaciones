@@ -11,7 +11,7 @@ El cliente, una empresa de servicios de telecomunicaciones, busca comprender el 
 
 ## Rol a desarrollar:
 
-En este proyecto, se asume el rol de analista de datos encargado de realizar un análisis completo del sector de las telecomunicaciones en Argentina. El objetivo es proporcionar información clave para tomar decisiones informadas.
+En este proyecto, se asume el rol de analista de datos - analista BI, encargado de realizar un análisis completo del sector de las telecomunicaciones en Argentina. El objetivo es proporcionar información clave para tomar decisiones informadas.
 
 ## Objetivo del proyecto:
 
@@ -27,25 +27,35 @@ A partir de los conjuntos de datos obtenidos de Enacom, llevar a cabo un proceso
 
 - Se enfoca en la calidad de la conexión de Internet en cada provincia. Una velocidad promedio más alta indica una mejor experiencia de usuario. Si bien es importante aumentar el acceso, también es crucial garantizar que la calidad del servicio sea adecuada. Un aumento en la velocidad promedio de conexión significa que los usuarios experimentarán una conexión más rápida y confiable.
 
-## Estructura repositorio:
+## Documentación:
 
-README.md: Archivo principal contiene información detallada sobre el proyecto.
+Aquí hallarás unos atajos para explorar los archivos almacenados en el repositorio.
 
-Conjuntos de datos: Aquí se encuentran los conjuntos de datos empleados en el proyecto.
+- **README.MD** [(link)]() → Archivo principal contiene información detallada sobre el proyecto.
+- **Data** [(link)]() → Aquí se encuentran los conjuntos de datos empleados en el proyecto.
+- **Data Analytics** [(link)](https://github.com/MayraSierraAT/NexTrend_Analytics/blob/4f033f667b5fbe45ac6c439f7895f989e6cb8f03/Data%20analytics/ProyectoFinal_EDA.ipynb) → Información pertinente al trabajo realizado en el area de Data Analytics.
+    - `EDA` [(Link)](https://github.com/Guido097/ML_FinalProject) → Se trata de un notebook de Python que contiene el código para llevar a cabo el análisis exploratorio de datos.
+    - `Dashboard` [(Link)](https://github.com/Guido097/ML_FinalProject) → Este archivo corresponde al reporte elaborado en Power BI.
+- **scr** [(link)]() → Imágenes utilizadas dentro del repositorio.
+      
 
-EDA.ipynb: Se trata de un notebook de Python que contiene el código para llevar a cabo el análisis exploratorio de datos.
+## Tecnologías Utilizadas:
 
-Informe.md: Es un archivo en formato MD que proporciona un análisis minucioso de las acciones realizadas en el tablero.
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 📚 &nbsp;
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+- 📊 &nbsp;
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-Dashboard PI.pbix: Este archivo corresponde al tablero elaborado en Power BI.
-
-## Herramientas Utilizadas:
-
-`Visual Studio Code`, `Python`, `Power BI`
-
-## Librerías Utilizadas
-
-`Pandas`, `Matplotlib`, `Seaborn`
 
 ## Autora:
 
