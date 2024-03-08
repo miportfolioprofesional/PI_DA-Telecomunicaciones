@@ -33,7 +33,7 @@ A partir de los conjuntos de datos obtenidos de Enacom, llevar a cabo un proceso
 
 > Este indicador muestra el porcentaje de la población que tiene acceso a internet en un área determinada, generalmente expresado como un porcentaje. La fórmula para calcularlo es: % Cobertura = (‘Total’ * 100) / ‘Población’. Simplemente multiplica la cantidad total de acceso a internet por 100 y luego divide el resultado por la población total para obtener el porcentaje de cobertura.
 
-## Conclusiones y Recomendaciones
+## Conclusiones y Recomendaciones ⚠️ 🚧
 
 
 
