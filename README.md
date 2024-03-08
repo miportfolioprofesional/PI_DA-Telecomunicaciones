@@ -3,6 +3,8 @@
 # <h1 align="center"> Proyecto Individual <br> Data Analitycs </h1>
 # <h1 align="center"> `TELECOMUNICACIONES` </h1>
 
+## En construcción ⚠️ 🚧
+
 ## Contexto:
 
 **Las telecomunicaciones** son fundamentales en la sociedad actual, permitiendo la transmisión de información a largas distancias a través de medios electrónicos, como el internet, la telefonía, la televisión y la radio. En Argentina, esta industria ha experimentado un crecimiento significativo, con 62.12 millones de conexiones en 2020.
